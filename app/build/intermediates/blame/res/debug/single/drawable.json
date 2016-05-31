@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\floortom.png",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\drawable\\floortom.png"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drumicon.png",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\drawable\\drumicon.png"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\na.png",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\drawable\\na.png"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ridecrymbal.png",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\drawable\\ridecrymbal.png"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fru.png",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\drawable\\fru.png"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hightom.png",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\drawable\\hightom.png"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\crymb.png",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\drawable\\crymb.png"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ha.png",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\drawable\\ha.png"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    }
+]

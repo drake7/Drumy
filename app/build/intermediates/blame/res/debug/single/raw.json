@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lower.mp3",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\raw\\lower.mp3"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\snare.mp3",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\raw\\snare.mp3"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lowest.mp3",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\raw\\lowest.mp3"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mostlo.mp3",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\raw\\mostlo.mp3"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\floor.mp3",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\raw\\floor.mp3"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\raw\\low.mp3",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\raw\\low.mp3"
+    }
+]

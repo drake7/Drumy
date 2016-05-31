@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drums.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\layout\\activity_drums.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_spl.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\layout\\activity_spl.xml"
+    }
+]

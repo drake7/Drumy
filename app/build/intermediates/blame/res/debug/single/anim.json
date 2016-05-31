@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\anim\\translate.xml"
+    }
+]

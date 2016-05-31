@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drums.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\menu\\drums.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\spl.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\menu\\spl.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\setting.xml",
+        "source": "C:\\Users\\deep\\AndroidStudioProjects\\Drumy\\app\\src\\main\\res\\menu\\setting.xml"
+    }
+]
